@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Nepo Aquino
 
-I'm a passionate web developer with a passion for crafting engaging websites. My journey in the world of programming began with mastering HTML, CSS, and JavaScript during my Bachelor of Computer Science at ICCT Colleges Foundation, Inc.
+I'm a dedicated web developer with a passion for creating engaging websites. My journey into programming started with mastering HTML, CSS, and JavaScript during my Bachelor of Computer Science at ICCT Colleges Foundation, Inc.
 
 ### 💼 Technical Skills
 - **Languages:** HTML, CSS, JavaScript, Python, Java
