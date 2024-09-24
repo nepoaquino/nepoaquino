@@ -17,7 +17,7 @@ I'm a dedicated web developer with a passion for creating engaging websites. My 
 - Portfolio: [nepoaquino.github.io/portfolio](https://nepoaquino.github.io/portfolio)
 - LinkedIn: [linkedin.com/in/nepo-aquino](https://www.linkedin.com/in/nepo-aquino)
 - Email: nepo.comsci@gmail.com
-- Phone: +639267963245
+- Phone: +639536372090
 
 Let's connect and collaborate on exciting web projects!
 
