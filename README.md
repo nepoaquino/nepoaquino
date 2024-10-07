@@ -21,6 +21,8 @@ I'm a dedicated web developer with a passion for creating engaging websites. My 
 
 Let's connect and collaborate on exciting web projects!
 
+[![trophy](https://github-profile-trophy.vercel.app/?nepoaquino=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!---
 nepoaquino/nepoaquino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
