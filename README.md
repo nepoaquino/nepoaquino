@@ -19,10 +19,8 @@ I'm a dedicated web developer with a passion for creating engaging websites. My 
 - Email: nepo.comsci@gmail.com
 - Phone: +639536372090
 
-Let's connect and collaborate on exciting web projects!
+Let's connect and collaborate on exciting projects!
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?nepoaquino=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 nepoaquino/nepoaquino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
