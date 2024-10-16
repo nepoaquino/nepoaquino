@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Nepo Aquino
 
-I'm a dedicated web developer with a passion for creating engaging websites. My journey into programming started with mastering HTML, CSS, and JavaScript during my Bachelor of Computer Science at ICCT Colleges Foundation, Inc.
+I'm a Computer Science graduate with a strong passion for software development and data management. In my recent role, I effectively managed platforms such as Shopee, Lazada, and Shopify, where I developed inventory systems for precise stock management and effective price promotions across all accounts. Additionally, I have a solid background in data entry, ensuring speed, accuracy, and consistency in managing information. I am also skilled in troubleshooting software and hardware issues for both computers and mobile devices.
 
 ### 💼 Technical Skills
 - **Languages:** HTML, CSS, JavaScript, Python, Java
